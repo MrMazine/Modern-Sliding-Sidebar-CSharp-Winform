@@ -1,0 +1,10 @@
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\bin\Debug\Modern Sliding Sidebar - C-Sharp Winform.exe.config
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\bin\Debug\Modern Sliding Sidebar - C-Sharp Winform.exe
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\bin\Debug\Modern Sliding Sidebar - C-Sharp Winform.pdb
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\bin\Debug\Guna.UI.dll
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern Sliding Sidebar - C-Sharp Winform.csprojResolveAssemblyReference.cache
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern_Sliding_Sidebar___C_Sharp_Winform.Form1.resources
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern_Sliding_Sidebar___C_Sharp_Winform.Properties.Resources.resources
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern Sliding Sidebar - C-Sharp Winform.csproj.GenerateResource.Cache
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern Sliding Sidebar - C-Sharp Winform.exe
+O:\D\C# Vi-St\Projects\Modern Sliding Sidebar - C-Sharp Winform\Modern Sliding Sidebar - C-Sharp Winform\obj\Debug\Modern Sliding Sidebar - C-Sharp Winform.pdb
